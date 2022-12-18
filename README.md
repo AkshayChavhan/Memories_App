@@ -22,6 +22,12 @@ Steps : -
      you will get link as mongodb+srv://akshaychavhan123:<password>@cluster0.fjmb3gn.mongodb.net/?retryWrites=true&w=majority
 
 
+4_Creating Routes for Posts  only
+    
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
