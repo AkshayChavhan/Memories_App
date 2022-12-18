@@ -30,6 +30,8 @@ Steps : -
 
 7_Creating Schema
 
+8_adding styles to all files
+
 
 # Getting Started with Create React App
 
