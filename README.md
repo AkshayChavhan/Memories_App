@@ -28,6 +28,8 @@ Steps : -
 
 6_Creating Model for posts backend
 
+7_Creating Schema
+
 
 # Getting Started with Create React App
 
