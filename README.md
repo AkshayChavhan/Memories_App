@@ -9,6 +9,17 @@ Steps : -
 
     cleaning SRC folder
 
+3_Connecting with database from backend : instructions are itself in file too
+     to connect server with real database
+     https://cloud.mongodb.com/cloud/atlas
+     create a account
+     click on Build a Cluster
+     click on Shared cluster
+     now go to database access and createa username and password  (akshaychavhan123)
+
+     Now go for add IP address
+     Click on connect to cluster 
+     you will get link as mongodb+srv://akshaychavhan123:<password>@cluster0.fjmb3gn.mongodb.net/?retryWrites=true&w=majority
 
 
 # Getting Started with Create React App
