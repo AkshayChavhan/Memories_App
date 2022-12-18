@@ -32,6 +32,8 @@ Steps : -
 
 8_adding styles to all files
 
+9_redux added with postdata eg (1.03.49)
+
 
 # Getting Started with Create React App
 
