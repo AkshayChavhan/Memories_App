@@ -26,6 +26,7 @@ Steps : -
     
 5_Setup folder structure for backend routes
 
+6_Creating Model for posts backend
 
 
 # Getting Started with Create React App
